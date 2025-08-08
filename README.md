@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dilrangi Sankalpana</h1>
 <h3 align="center">I'm a computer science and engineering undergraduate at the University of Moratuwa, Sri Lanka. I love to learn and am always eager to broaden my knowledge and skills.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dilrangi-sankalpana&label=Profile%20views&color=0e75b6&style=flat" alt="dilrangi-sankalpana" /> </p>
-
 - 🔭 I’m currently working on [PointMaster - POS](https://github.com/PointMaster-POS)
 
 - 🌱 I’m currently learning **Spring Boot, DevOps, Kubernetes**
