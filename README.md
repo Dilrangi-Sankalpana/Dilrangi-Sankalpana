@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dilrangi Sankalpana</h1>
-<h3 align="center">I'm a computer science and engineering undergraduate at the University of Moratuwa, Sri Lanka. I love to learn and am always eager to broaden my knowledge and skills.</h3>
+<h3 align="center">A fast learning, creative, and open-minded individual who is passionate about building reliable and scalable software solutions. Experienced in full-stack development,
+problem-solving, and delivering real-world projects through academic and personal work. Eager to contribute to engineering teams, learn quickly, and grow with modern technologies.</h3>
 
-- 🔭 I’m currently working on [PointMaster - POS](https://github.com/PointMaster-POS)
+- 🔭 I’m currently working on the final year research and development project, which focuses on **Semantic Similarity and Uncertainty Quantifications**
 
-- 🌱 I’m currently learning **Spring Boot, DevOps, Kubernetes**
-
-- 💬 Ask me about **react**
+- 🌱 I’m currently learning **AWS, Azure**
 
 - 📫 How to reach me **dilrangi.s.karunathilaka@gmail.com**
 
