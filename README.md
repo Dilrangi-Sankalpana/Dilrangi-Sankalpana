@@ -1,5 +1,5 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Dilrangi Sankalpana</h1>
-<h3 align="center">Final year Undergraduate, Department of Computer Science and Engineering, University of Moratuwa</h3>
+<h3 align="center">Software Engineer | Java | Spring Boot | Microservices | React | AWS</h3>
 
 <!-- <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Dilrangi-Sankalpana">
@@ -10,13 +10,18 @@
 <!-- <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Banner" width="100%" /> -->
 
 ## 📌 About Me
-- A fast learning, creative, and open-minded individual who is passionate about building reliable and scalable software solutions. Experienced in full-stack development, problem-solving, and delivering real-world projects through academic and personal work. Eager to contribute to engineering teams, learn quickly, and grow with modern technologies.
-- I’m currently working on the final year research and development project, which focuses on **Semantic Similarity and Uncertainty Quantifications**
-- I’m currently learning **AWS, Azure**
+- Computer Science & Engineering graduate with hands-on experience developing full-stack applications using Java, Spring Boot, React, SQL, Docker, and AWS.
+- Passionate about backend engineering, RESTful APIs, microservices, distributed systems, and building scalable software solutions.
+- Experienced through a software engineering internship and academic projects, with a strong interest in writing clean, maintainable, and high-performance code.
+- Currently expanding my knowledge in cloud technologies (AWS, Azure) and backend system design.
 
 
 ## 🧠 My Focus Areas
-- DevOps & Cloud
+- Backend Development
+- Java & Spring Boot
+- Microservices
+- REST APIs, gRPC, kafka
+- Cloud & Docker
 
 
 ## 🛠️ Languages & Tools
