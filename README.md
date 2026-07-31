@@ -1,5 +1,5 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Dilrangi Sankalpana</h1>
-<h3 align="center">Software Engineer | Java | Spring Boot | Microservices | React | AWS</h3>
+<h3 align="center">Full Stack Software Engineer | Java | Spring Boot | React | SQL | AWS</h3>
 
 <!-- <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Dilrangi-Sankalpana">
@@ -10,19 +10,19 @@
 <!-- <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Banner" width="100%" /> -->
 
 ## 📌 About Me
-- Computer Science & Engineering graduate with hands-on experience developing full-stack applications using Java, Spring Boot, React, SQL, Docker, and AWS.
-- Passionate about backend engineering, RESTful APIs, microservices, distributed systems, and building scalable software solutions.
-- Experienced through a software engineering internship and academic projects, with a strong interest in writing clean, maintainable, and high-performance code.
-- Currently expanding my knowledge in cloud technologies (AWS, Azure) and backend system design.
-
+- Computer Science & Engineering graduate with hands-on experience building full-stack applications using Java, Spring Boot, React, SQL, Docker, and AWS.
+- Passionate about designing scalable software solutions with a strong interest in backend development, RESTful APIs, microservices, and distributed systems.
+- Experienced through a software engineering internship and personal projects, developing responsive frontends, robust backend services, and cloud-integrated applications.
+- Continuously expanding my knowledge in cloud technologies (AWS, Azure), system design, and modern software engineering practices.
 
 ## 🧠 My Focus Areas
-- Backend Development
+- Full Stack Development
+- Backend Engineering
 - Java & Spring Boot
+- React
 - Microservices
-- REST APIs, gRPC, kafka
-- Cloud & Docker
-
+- REST APIs, gRPC & Apache Kafka
+- Cloud(AWS) & Docker
 
 ## 🛠️ Languages & Tools
 
